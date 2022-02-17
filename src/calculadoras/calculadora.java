@@ -2,9 +2,8 @@ package calculadoras;
 
 public class calculadora {
 
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	public int suma (int a, int b) {
+		return a + b;
 	}
 
 }
